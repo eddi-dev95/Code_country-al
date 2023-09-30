@@ -1,0 +1,23 @@
+Code_country= {
+    "Argentina": "+54",
+    "Bolivia": "+591",
+    "Brasil": "+55",
+    "Chile": "+56",
+    "Colombia": "+57",
+    "Costa Rica": "+506",
+    "Cuba": "+53",
+    "Ecuador": "+593",
+    "El Salvador": "+503",
+    "Guatemala": "+502",
+    "Honduras": "+504",
+    "México": "+52",
+    "Nicaragua": "+505",
+    "Panamá": "+507",
+    "Paraguay": "+595",
+    "Perú": "+51",
+    "República Dominicana": "+1-809",
+    "Uruguay": "+598",
+    "Venezuela": "+58",
+    “Estados Unidos”: “+1”
+}
+
